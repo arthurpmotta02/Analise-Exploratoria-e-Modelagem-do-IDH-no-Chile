@@ -5,10 +5,6 @@ Fonte dos dados: [Programa das Nações Unidas para o Desenvolvimento - Relatór
 
 ## Visualizando gráficos interativos no nbviewer
 
-Para visualizar os gráficos interativos criados com Plotly neste notebook Jupyter através do nbviewer, siga os passos abaixo:
-
-1. Acesse o nbviewer através do link: [nbviewer](https://nbviewer.org/).
-2. Cole o URL do GitHub do notebook que deseja visualizar na caixa de texto do nbviewer e pressione `Enter`.
-3. O nbviewer irá renderizar o notebook incluindo os gráficos interativos. Você poderá interagir com os gráficos diretamente na interface do nbviewer.
+Para visualizar os gráficos interativos criados com Plotly neste notebook Jupyter através do nbviewer, acesse através do link: [nbviewer]([https://nbviewer.org/](https://nbviewer.org/github/arthurpmotta02/Analise-Exploratoria-e-Modelagem-do-IDH-no-Chile/blob/main/chile.ipynb)).
 
 Isso é possível porque o nbviewer utiliza uma renderização que suporta JavaScript, o que permite a visualização de conteúdos interativos como os gráficos do Plotly.
