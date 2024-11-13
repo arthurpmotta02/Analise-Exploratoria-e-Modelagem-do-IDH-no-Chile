@@ -1,7 +1,7 @@
 # Análise Exploratória e Modelagem do Índice de Desenvolvimento Humano (IDH) no Chile
 Este trabalho foi desenvolvido como parte de uma atividade de uma disciplina eletiva do meu curso de Estatística, que é obrigatória para a Engenharia de Produção. Com o objetivo de auxiliar futuros alunos que necessitem de orientação, disponibilizo este material como um guia. Este estudo realiza uma análise detalhada dos indicadores de desenvolvimento humano no Chile, explorando a evolução desses indicadores ao longo do tempo. Além disso, constrói um modelo de regressão para identificar as variáveis que mais impactam no Índice de Desenvolvimento Humano (IDH). A intenção é que este repositório sirva como referência.
 
-Fonte dos dados: Programa das Nações Unidas para o Desenvolvimento - Relatório de Desenvolvimento Humano.
+Fonte dos dados: [Programa das Nações Unidas para o Desenvolvimento - Relatório de Desenvolvimento Humano.](https://hdr.undp.org/data-center/documentation-and-downloads)
 
 ## Visualizando gráficos interativos no nbviewer
 
